@@ -1,0 +1,11 @@
+           left      right 
+fast      -30       0 
+rev_fast  0         30 
+
+ 
+medium    0         10 
+rev_medium  0       -10 
+
+ 
+slow      0         27 
+rev_slow  0         -37 
